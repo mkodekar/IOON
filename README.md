@@ -8,9 +8,9 @@ Be sure to check out the [Channelog] (https://github.com/deltaxflux/IOON)
 
 ## :book: How to:
 
-*Start the script windows: start bash ; linux $ sudo ./flash.sh
-*Choose your Options
-*Thats all !
+* Start the script windows: start bash ; linux $ sudo ./flash.sh
+* Choose your Options
+* Thats all !
 
 
 ##  :eight_spoked_asterisk: Features 
