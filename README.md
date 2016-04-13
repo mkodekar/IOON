@@ -25,3 +25,4 @@ Be sure to check out the [Channelog] (https://github.com/deltaxflux/IOON)
 
 ## :octocat: Credits
 1. Deltax @Main developer for IOON 
+2. Naman Bhalla Fastboot Images
